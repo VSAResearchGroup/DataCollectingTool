@@ -1,0 +1,14 @@
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\bin\Debug\DataCollectingTool.exe.config
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\bin\Debug\DataCollectingTool.exe
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\bin\Debug\DataCollectingTool.pdb
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\obj\Debug\DataCollectingTool.csprojResolveAssemblyReference.cache
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\obj\Debug\DataCollectingTool.DataCollectingTool.resources
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\obj\Debug\DataCollectingTool.Properties.Resources.resources
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\obj\Debug\DataCollectingTool.csproj.GenerateResource.cache
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\obj\Debug\DataCollectingTool.csproj.CoreCompileInputs.cache
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\obj\Debug\DataCollectingTool.csproj.CopyComplete
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\obj\Debug\DataCollectingTool.exe
+C:\Users\tungl\OneDrive\Documents\Visual Studio 2017\DataCollectingTool\DataCollectingTool\obj\Debug\DataCollectingTool.pdb
